@@ -14,11 +14,9 @@ It includes functionalities such as **balance inquiry, deposits, withdrawals, an
 - **Language:** C++
 - **Concepts:** Procedural Programming, Input Validation, File Handling
 
-## 📂 Folder Structure
-📁 SimpleATM_Univ_Project ├── 📄 SimpleATM_Univ_Project.cpp # Main program file └── 📄 README.md # Project documentation
 
-## 📷 Screenshots
-*(Tambahkan screenshot jika ada, bisa upload gambar ke repository lalu link ke sini!)*
+## 📷 Screenshots / Documentation
+*(https://github.com/Ardengoldy/University-Projects/Group-Projects/SimpleATM_Univ_Project/Documentation/README.md)*
 
 ## 🚀 How to Run
 1. **Compile the code** using a C++ compiler (e.g., g++).
